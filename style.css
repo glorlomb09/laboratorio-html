@@ -95,6 +95,6 @@ footer {
 }
         table, th, td {border: 1px solid black;}
         caption {font-weight:bold;color: red}
-        th {background-color: purple;}
+        th {background-color: blue;}
         td {text-align: center;}
     
