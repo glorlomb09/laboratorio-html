@@ -97,4 +97,6 @@ footer {
         caption {font-weight:bold;color: red}
         th {background-color: #E680E6;}
         td {text-align: center;}
-    
+
+img{width: 100px; height:60px
+   padding:20px; border:20px;margin:30px}
